@@ -1,0 +1,1 @@
+export const MONGODB_URL = "mongodb://localhost:27017/food-order-delivery?readPreference=primary&appname=MongoDB%20Compass&ssl=false"
